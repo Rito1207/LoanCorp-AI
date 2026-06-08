@@ -50,6 +50,22 @@ DATABASE_URL=postgresql://user:password@localhost:5432/loancorp
 
 Бүх endpoint нь `Authorization: Bearer <token>` header шаардана.
 
+## 📞 Хөгжүүлэгч
+
+** Алтангэрэл **
+
+** Холбогдох дугаар : 88045712 **
+
+
+📧 giko.rito88@gmail.com  
+🐙 [GitHub: Rito1207](https://github.com/Rito1207)
+
+---
+
+## 📜 Лиценз
+
+© 2026 All rights reserved. Хувийн төсөл.
+
 ## 🔌 Холболт
 
 Энэ API нь [Chatbot-AI](https://github.com/Rito1207/Chatbot-AI) системтэй холбогдоно:
